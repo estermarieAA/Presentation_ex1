@@ -1,0 +1,39 @@
+{
+  "colors": [
+    {
+      "color": "black",
+      "category": "hue",
+      "type": "primary",
+      "code": [255,255,255,1]
+    },
+    {
+      "color": "white",
+      "category": "value",
+      "code": [0,0,0,1]
+    },
+    {
+      "color": "red",
+      "category": "hue",
+      "type": "primary",
+      "code": [255,0,0,1]
+    },
+    {
+      "color": "blue",
+      "category": "hue",
+      "type": "primary",
+      "code": [0,0,255,1]
+    },
+    {
+      "color": "yellow",
+      "category": "hue",
+      "type": "primary",
+      "code": [255,255,0,1]
+    },
+    {
+      "color": "green",
+      "category": "hue",
+      "type": "secondary",
+      "code": [0,255,0,1]
+    }
+  ]
+}
